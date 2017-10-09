@@ -1,7 +1,8 @@
 
 /*
-描述:给定句子,能否仅使用键盘上同一行的字母完成输入
-提示：本质上还是字符、字符串搜索,使用hash
+URL  : https://leetcode.com/problems/keyboard-row/description/
+描述 : 给定句子,能否仅使用键盘上同一行的字母完成输入
+提示 ：本质上还是字符、字符串搜索,使用hash
 */
 
 
