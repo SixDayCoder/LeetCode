@@ -1,7 +1,8 @@
 
 /*
-描述:按照字母出现的频率排序
-提示:练习lambda表达式
+URL  :  https://leetcode.com/problems/sort-characters-by-frequency/description/
+描述 : 按照字母出现的频率排序
+提示 : 练习lambda表达式
 */
 
 
