@@ -5,8 +5,9 @@
 using namespace std;
 
 /*
-描述:无序向量中寻找两个数之和为一固定的target
-提示:使用hash表存储待查询的数据
+URL  : https://leetcode.com/problems/two-sum/description/
+描述 :  无序向量中寻找两个数之和为一固定的target
+提示 :  使用hash表存储待查询的数据
 */
 
 class Solution {
